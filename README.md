@@ -1,2 +1,2 @@
-# cyber_essentials.github.io
-Cybersecurity Book
+# cyber_essentials
+## A Beginner's Guide
