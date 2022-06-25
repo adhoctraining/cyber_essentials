@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cyber Essentials
 
 You can use the [editor on GitHub](https://github.com/adhoctraining/cyber_essentials.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
